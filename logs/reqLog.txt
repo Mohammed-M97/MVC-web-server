@@ -1,0 +1,15 @@
+20231009	13:25:08	f25da4cd-348f-4d9d-95bf-9d626b07f17e	POST	undefined	/employees
+20231009	13:26:11	1b7014e0-ce55-4bc1-81e1-a0bee4dc5028	PUT	undefined	/employees
+20231009	13:26:41	6aeb7d57-f7eb-49aa-b523-554e9b792ee0	DELETE	undefined	/employees
+20231009	13:26:42	8a5e85f6-4ad7-4790-9258-ccde44519bab	DELETE	undefined	/employees
+20231009	13:26:43	dd498a26-57d3-48af-ac2e-1eb464074bc9	DELETE	undefined	/employees
+20231009	13:26:44	d0757ce1-4181-422e-9e93-59702762c859	DELETE	undefined	/employees
+20231009	13:26:45	49b43b09-6405-4a96-b342-182bb416f402	DELETE	undefined	/employees
+20231009	13:26:45	ef5f08ae-e8c7-4a27-a755-0c292a66d323	DELETE	undefined	/employees
+20231009	13:27:12	1f9e7bbb-a529-4a9c-8b08-696dfad919ea	DELETE	undefined	/employees
+20231009	13:27:12	7b7ae0c6-050b-45a5-a243-14c6b9c52cfb	DELETE	undefined	/employees
+20231009	13:27:13	c03a73ea-b0f7-4414-b20e-c4de6a3cb708	DELETE	undefined	/employees
+20231009	13:27:13	c95bdd0e-5b44-4e0d-aec4-f9fee424e188	DELETE	undefined	/employees
+20231009	13:27:41	8ad25439-8848-4a6f-88d3-2a86222007d5	GET	undefined	/employees/1
+20231009	13:27:46	9158ccf6-5112-45ae-95e1-ed6d37be25e9	GET	undefined	/employees/2
+20231009	13:27:57	cc9b1550-a818-406b-9f77-b7c7fd933489	GET	undefined	/employees/1
